@@ -12,7 +12,7 @@
 #include <gl/gl.h>
 
 //#include "iostream"
-//using namespace std;
+using namespace std;
 
 /**************************
  * Function Declarations
